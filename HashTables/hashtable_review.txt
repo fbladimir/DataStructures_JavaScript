@@ -1,0 +1,8 @@
+// Postivies! 
+- Fast lookups 
+- Fast Inserts 
+-Flexible Keys 
+
+//Negatives 
+-Unordered 
+- Slow key iteration

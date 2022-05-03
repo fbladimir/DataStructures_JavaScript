@@ -1,0 +1,13 @@
+Arrays: 
+Search o(n)
+lookup o(1)
+push o(1)
+insert o(n)
+delete o(n)
+
+Hash Tables: 
+search o(1)
+insert o(1)
+lookup o(1)
+delete o(1) 
+
